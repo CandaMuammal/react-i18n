@@ -1,0 +1,29 @@
+{
+  "name": "react-router-and-react-i18next-forked",
+  "version": "0.0.0",
+  "description": "An example of React Router copied from https://reacttraining.com/react-router/web/guides/quick-start.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "i18next": "11.3.6",
+    "i18next-browser-languagedetector": "2.2.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-i18next": "7.8.1",
+    "react-redux": "5.0.6",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.2.2",
+    "react-router-redux": "5.0.0-alpha.9",
+    "react-scripts": "1.1.4",
+    "redux": "3.7.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
